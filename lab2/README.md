@@ -12,6 +12,6 @@ turn the rest part of the frames into greyscale images
 * `out.avi`: final outcome
 ## Demo
 Origin:
-[!](./demo/original.gif)
+![origin](./demo/original.gif)
 After process:
-[!](./demo/out.gif)
+![out](./demo/out.gif)
